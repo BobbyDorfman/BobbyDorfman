@@ -1,7 +1,6 @@
 <img align='right' src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47r7292a2gn53u9xk9nq9zgjlr9d1x8vhqy8a56634&rid=giphy.gif&ct=s" width="230">
 
-## Hi! 👋 
-I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru/)
+## Hi! 👋 I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru/)
 -----
 #### Languages and Tools
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=flat-square&logo=javascript)
