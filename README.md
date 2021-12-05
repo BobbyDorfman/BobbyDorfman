@@ -1,4 +1,4 @@
-<img align='left' src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47r7292a2gn53u9xk9nq9zgjlr9d1x8vhqy8a56634&rid=giphy.gif&ct=s" width="230">
+<img align='right' src="https://media1.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif?cid=ecf05e47r7292a2gn53u9xk9nq9zgjlr9d1x8vhqy8a56634&rid=giphy.gif&ct=s" width="230">
 
 ## Hi! 👋 
 I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru/)
@@ -17,7 +17,6 @@ I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru
 <img align='right' src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
 
 #### Contacts
-
 [![github](https://img.shields.io/badge/GitHub-090909?style=flat-square&logo=github)](https://github.com/BobbyDorfman)
 [![telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram)](https://t.me/BobbyDorfman)
 
