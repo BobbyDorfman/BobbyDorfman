@@ -2,10 +2,8 @@
 
 ## Hi! 👋 
 I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru/)
-
 -----
 #### Languages and Tools
-
 ![javascript](https://img.shields.io/badge/JavaScript-090909?style=flat-square&logo=javascript)
 ![html](https://img.shields.io/badge/HTML5-090909?style=flat-square&logo=html5)
 ![css](https://img.shields.io/badge/CSS3-090909?style=flat-square&logo=css3)
@@ -19,7 +17,6 @@ I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru
 #### Contacts
 [![github](https://img.shields.io/badge/GitHub-090909?style=flat-square&logo=github)](https://github.com/BobbyDorfman)
 [![telegram](https://img.shields.io/badge/Telegram-090909?style=flat-square&logo=telegram)](https://t.me/BobbyDorfman)
-
 
 ![codewars](https://www.codewars.com/users/BobbyDorfman/badges/micro)
 
