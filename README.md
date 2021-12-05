@@ -14,7 +14,7 @@ I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru
 ![figma](https://img.shields.io/badge/Figma-090909?style=flat-square&logo=figma)
 ![git](https://img.shields.io/badge/Git-090909?style=flat-square&logo=git)
 
-<img align='left' src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
+<img align='right' src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
 
 #### Contacts
 
@@ -25,4 +25,5 @@ I'm a studying web development in [Yandex.Praktikum](https://practicum.yandex.ru
 ![codewars](https://www.codewars.com/users/BobbyDorfman/badges/micro)
 
 #### Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyDorfman&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyDorfman&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BobbyDorfman&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyDorfman&layout=compact)
