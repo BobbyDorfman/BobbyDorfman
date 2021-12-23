@@ -8,9 +8,10 @@
     <img alt="React" src="https://img.shields.io/badge/-React-ffffff?style=for-the-badge&logo=react&logoColor=74ceec"/>
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=e54c21"/>
     <img alt="CSS" src="https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=CSS3&logoColor=1572b6"/>
-    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-ffffff?style=for-the-badge&logo=webpack&logoColor=1b74ba"/> 
-    <img alt="Api-REST" src="https://img.shields.io/badge/-Api REST-ffffff?style=for-the-badge&logo=apirest&logoColor=1b74ba"/> 
-    <img alt="Figma" src="https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=f24e1e"/> 
+    <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-ffffff?style=for-the-badge&logo=webpack&logoColor=1b74ba"/>
+    <img alt="Api-REST" src="https://img.shields.io/badge/-Api REST-ffffff?style=for-the-badge&logo=apirest&logoColor=1b74ba"/>
+    <img alt="Figma" src="https://img.shields.io/badge/-Figma-ffffff?style=for-the-badge&logo=figma&logoColor=f24e1e"/>
+    <img alt="Git" src="https://img.shields.io/badge/-Git-ffffff?style=for-the-badge&logo=git&logoColor=f34f29"/>
 </p>
 
 <img align='right' src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
